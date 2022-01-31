@@ -1,128 +1,128 @@
-What is DigiByte?
+¿Qué es DigiByte? 
 ----------------
 
-DigiByte (DGB) is a rapidly growing three year old decentralized global blockchain with a focus on cyber security, payments & secure communications technologies.
+DigiByte (DGB) es una cadena de bloques global descentralizada de tres años de rápido crecimiento que se centra en la seguridad cibernética, los pagos y las tecnologías de comunicaciones seguras.
 
-For more information, as well as an immediately useable, binary version of
-the DigiByte Core software, see https://digibyte.io
+Para obtener más información, así como una versión binaria de uso inmediato de
+el software DigiByte Core, consulte  https://digibyte.io
 
 DigiByte FAQ
 -------------
-Launch Date: January 10th, 2014
+Fecha de lanzamiento: 10 de enero de 2014
 
-Blockchain Type: Public, Decentralized, UTXO based, Multi-Algorithm
+Tipo de cadena de bloques: pública, descentralizada, basada en UTXO, multialgoritmo
 
-Ticker Symbol: DGB
+Símbolo de cotización: DGB
 
-Genesis Block Hash: "USA Today: 10/Jan/2014, Target: Data stolen from up to 110M customers"
+Genesis Block Hash: "USA Today: 10 de enero de 2014, objetivo: datos robados de hasta 110 millones de clientes"
 
-Max Total Supply: 21 Billion DigiBytes in 21 Years (2035)
+Suministro total máximo: 21 mil millones de dígitos en 21 años (2035)
 
-Current Supply: 8,107,031,908 DGB (May 2017)
+Oferta Actual: 8.107.031.908 DGB (Mayo 2017)
 
-Yearly Supply Inflation: 12% in 2017
+Inflación de la Oferta Anual: 12% en 2017
 
-Block Reward Reduction: 1% Monthly
+Reducción de recompensas en bloque: 1% mensual
 
-Current Block Reward 891 DGB
+Recompensa de bloque actual 891 DGB
 
-Mining Algorithms: Five (Sha256, Scrypt, Groestl, Skein & Qubit)
+Algoritmos de minería: cinco (Sha256, Scrypt, Groestl, Skein y Qubit)
 
-Block Timing: 15 Second Blocks, (1.5 Minutes per algo)
+Tiempo de bloque: bloques de 15 segundos (1,5 minutos por algoritmo)
 
-Algo Block Share: 20% Block Share Per Algo (5)
+Cuota de bloque de Algo: 20 % de cuota de bloque por Algo (5)
 
-Difficulty Retarget Every 1 Block, 5 Separate Difficulties, 1 For Each Mining Algo
+Retarget de dificultad cada 1 bloque, 5 dificultades separadas, 1 para cada algoritmo de minería
 
-SegWit Support Yes. First major altcoin to successfully activate Segwit. (April 2017)
+Compatibilidad con SegWit Sí. Primera altcoin importante en activar con éxito Segwit. (abril de 2017)
 
-Hardforks 4. DigiShield, MultiAlgo, MultiShield, DigiSpeed
+Bifurcaciones 4. DigiShield, MultiAlgo, MultiShield, DigiSpeed
 
-Softforks 3. SegWit, CSV, NVersionBips
+Bifurcaciones blandas 3. SegWit, CSV, NVersionBips
 
-You can mine DigiByte on one of five separate mining algorithms. Each algo averages out to mine 20% of new blocks. This allows for much greater decentralization than other blockchains. In order for an attacker to hardfork DigiByte the attacker would need to control 93% of the hashrate on 1 algo, and 51% of the other 4 making DigiByte much more secure against PoW attacks than other blockchains.
+Puede minar DigiByte en uno de los cinco algoritmos de minería separados. Cada algoritmo extrae un promedio del 20 % de los bloques nuevos. Esto permite una descentralización mucho mayor que otras cadenas de bloques. Para que un atacante pueda forzar DigiByte, el atacante necesitaría controlar el 93% del hashrate en 1 algoritmo y el 51% de los otros 4, lo que hace que DigiByte sea mucho más seguro contra ataques PoW que otras cadenas de bloques.
 
-DigiShield Hardfork: Block 67,200, Feb. 28th, 2014
+DigiShield Hardfork: Bloque 67,200, 28 de febrero de 2014
 
-MultiAlgo Hardfork: Block 145k, Sep. 1st 2014
+MultiAlgo Hardfork: bloque 145k, 1 de septiembre de 2014
 
-MultiShield Hardfork: Block 400k, Dec. 10th 2014
+MultiShield Hardfork: bloque 400k, 10 de diciembre de 2014
 
-DigiSpeed Hardfork: Block 1,430,000 Dec. 4th 2015
+Hardfork de DigiSpeed: Bloque 1,430,000 4 de diciembre de 2015 
 
 DigiByte vs Bitcoin
 -------------------
 
-Security: 5 DigiByte mining algorithms vs. 1 Bitcoin algorithm.
-DigiByte mining is much more decentralized.
-DigiByte mining algorithms can be changed out in the future to prevent centralization.
+Seguridad: 5 algoritmos de minería de DigiByte frente a 1 algoritmo de Bitcoin.
+La minería de DigiByte está mucho más descentralizada.
+Los algoritmos de minería de DigiByte se pueden cambiar en el futuro para evitar la centralización.
 
-Speed:  DigiByte transactions occur much faster than Bitcoin transactions.
-1-3 second transaction notifications.
-15 second DigiByte blocks vs. 10 minute Bitcoin blocks.
-DigiBytes are confirmed after 1.5 minutes vs. 1 hour with Bitcoin.
+Velocidad: las transacciones de DigiByte ocurren mucho más rápido que las transacciones de Bitcoin.
+Notificaciones de transacciones de 1 a 3 segundos.
+Bloques DigiByte de 15 segundos frente a bloques Bitcoin de 10 minutos.
+Los DigiBytes se confirman después de 1,5 minutos frente a 1 hora con Bitcoin.
 
-Transaction Volume: DigiByte can handle many more transactions per second.
-Bitcoin can only handle 3-4 transactions per second.
-DigiByte currently can handle 280+ transactions per second.
-The 2015 DigiSpeed hardfork introduced changes that double the capacity of the network every two years.
+Volumen de transacciones: DigiByte puede manejar muchas más transacciones por segundo.
+Bitcoin solo puede manejar 3-4 transacciones por segundo.
+DigiByte actualmente puede manejar más de 280 transacciones por segundo.
+La bifurcación dura DigiSpeed ​​de 2015 introdujo cambios que duplican la capacidad de la red cada dos años.
 
-Total Supply: More DigiBytes, lower price, more micro transactions, better price stability.
-21 billion DigiBytes will be created over 21 years.
-Only 21 million Bitcoins will be created over 140 years.
-1:1000 ratio. 1 Bitcoin for every 1000 DigiBytes.
+Suministro total: más DigiBytes, precio más bajo, más micro transacciones, mejor estabilidad de precios.
+Se crearán 21 mil millones de DigiBytes en 21 años.
+Solo se crearán 21 millones de Bitcoins durante 140 años.
+relación 1:1000. 1 Bitcoin por cada 1000 DigiBytes.
 
-Flexibility: Ability to quickly add new features.
-DigiByte can add new features & upgrades much quicker than Bitcoin.
-Future DigiByte upgrades will push transaction limit to several thousand per second.
+Flexibilidad: Capacidad para agregar rápidamente nuevas características.
+DigiByte puede agregar nuevas funciones y actualizaciones mucho más rápido que Bitcoin.
+Las futuras actualizaciones de DigiByte impulsarán el límite de transacciones a varios miles por segundo.
 
-Marketability & Usability: DigiByte is an easy brand to market to consumers.
-DigiBytes are much cheaper to acquire.
-$1 - $10 long-term price target per DigiByte.
-Send 5 DigiBytes instead of 0.005 Bitcoin.
+Comercialización y usabilidad: DigiByte es una marca fácil de comercializar entre los consumidores.
+DigiBytes son mucho más baratos de adquirir.
+$1 - $10 precio objetivo a largo plazo por DigiByte.
+Envía 5 DigiBytes en lugar de 0,005 Bitcoin.
 
 
-License
+Licencia
 -------
 
-DigiByte Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
-information or see https://opensource.org/licenses/MIT.
+DigiByte Core se publica bajo los términos de la licencia MIT. Ver [COPYING](COPYING) para más
+información o ver  https://opensource.org/licenses/MIT.
 
-Development Process
+Proceso de desarrollo
 -------------------
 
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/digibyte/digibyte/tags) are created
-regularly to indicate new official, stable release versions of DigiByte Core.
+La rama `master` se construye y prueba regularmente, pero no se garantiza que sea
+completamente estable. [Tags](https://github.com/digibyte/digibyte/tags) son creados
+regularmente para indicar nuevas versiones de lanzamiento oficiales y estables de DigiByte Core.
 
-The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
+El flujo de trabajo de contribución se describe en [CONTRIBUTING.md](CONTRIBUTING.md).
 
 
-Testing
+Pruebas
 -------
 
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test on short notice. Please be patient and help out by testing
-other people's pull requests, and remember this is a security-critical project where any mistake might cost people
-lots of money.
+Las pruebas y la revisión del código son el cuello de botella para el desarrollo; obtenemos más tirón
+solicitudes que podemos revisar y probar a corto plazo. Por favor sea paciente y ayude haciendo pruebas
+solicitudes de extracción de otras personas, y recuerde que este es un proyecto crítico para la seguridad en el que cualquier error podría costarle a la gente
+mucho dinero.
 
-### Automated Testing
+### Pruebas automatizadas
 
-Developers are strongly encouraged to write [unit tests](src/test/README.md) for new code, and to
-submit new unit tests for old code. Unit tests can be compiled and run
-(assuming they weren't disabled in configure) with: `make check`. Further details on running
-and extending unit tests can be found in [/src/test/README.md](/src/test/README.md).
+Se recomienda encarecidamente a los desarrolladores que escriban [unit tests](src/test/README.md) para el nuevo código, y para
+envíe nuevas pruebas unitarias para el código anterior. Las pruebas unitarias se pueden compilar y ejecutar
+(suponiendo que no estuvieran deshabilitados en la configuración) con:`make check`. Más detalles sobre la ejecución
+y ampliar las pruebas unitarias se pueden encontrar en [/src/test/README.md](/src/test/README.md).
 
-There are also [regression and integration tests](/qa) of the RPC interface, written
-in Python, that are run automatically on the build server.
-These tests can be run (if the [test dependencies](/qa) are installed) with: `qa/pull-tester/rpc-tests.py`
+también hay[pruebas de regresión e integración](/qa) de la interfaz RPC, escrito
+en Python, que se ejecutan automáticamente en el servidor de compilación.
+Estas pruebas se pueden ejecutar (si las [dependencias de prueba](/qa) están instaladas) con: `qa/pull-tester/rpc-tests.py`
 
-The Travis CI system makes sure that every pull request is built for Windows, Linux, and OS X, and that unit/sanity tests are run automatically.
+El sistema Travis CI se asegura de que cada solicitud de extracción se cree para Windows, Linux y OS X, y que las pruebas de unidad/sanidad se ejecuten automáticamente.
 
-### Manual Quality Assurance (QA) Testing
+### Pruebas manuales de control de calidad (QA)
 
-Changes should be tested by somebody other than the developer who wrote the
-code. This is especially important for large or high-risk changes. It is useful
-to add a test plan to the pull request description if testing the changes is
-not straightforward.
+Los cambios deben ser probados por alguien que no sea el desarrollador que escribió el
+código. Esto es especialmente importante para cambios grandes o de alto riesgo. Es útil
+para agregar un plan de prueba a la descripción de la solicitud de extracción si probar los cambios no
+es sencillo.
 
