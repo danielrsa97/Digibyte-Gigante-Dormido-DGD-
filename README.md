@@ -86,7 +86,7 @@ Licencia
 -------
 
 DigiByte Core se publica bajo los términos de la licencia MIT. Ver [COPYING](COPYING) para más
-información o ver  https://opensource.org/licenses/MIT.
+información o ver https://opensource.org/licenses/MIT.
 
 Proceso de desarrollo
 -------------------
@@ -113,7 +113,7 @@ envíe nuevas pruebas unitarias para el código anterior. Las pruebas unitarias 
 (suponiendo que no estuvieran deshabilitados en la configuración) con:`make check`. Más detalles sobre la ejecución
 y ampliar las pruebas unitarias se pueden encontrar en [/src/test/README.md](/src/test/README.md).
 
-también hay[pruebas de regresión e integración](/qa) de la interfaz RPC, escrito
+también hay [pruebas de regresión e integración](/qa) de la interfaz RPC, escrito
 en Python, que se ejecutan automáticamente en el servidor de compilación.
 Estas pruebas se pueden ejecutar (si las [dependencias de prueba](/qa) están instaladas) con: `qa/pull-tester/rpc-tests.py`
 
